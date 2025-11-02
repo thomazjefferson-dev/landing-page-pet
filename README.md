@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-<img src="https://pt.venngage.com/blog/landing-page/" alt="">
-## Getting Started
+<img width="1351" height="632" alt="Captura de tela 2025-11-02 082954" src="https://github.com/user-attachments/assets/807c343c-bbf8-44ff-a951-1a5c6751d02d" />
+
+
 
 First, run the development server:
 
